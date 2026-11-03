@@ -1,5 +1,6 @@
-
 # LinkShrink — Serverless URL Shortener
+
+### https://github.com/swanandihelambe/LinkShrink
 
 LinkShrink is a serverless URL shortener built using AWS services. It converts a long URL into a short code and redirects users to the original URL when the short code is accessed.
 
